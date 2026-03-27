@@ -1,0 +1,7 @@
+{
+  "name": "Wetaract - Social Growth Ecosystem",
+  "description": "A community-driven platform where creators subscribe to gain organic followers and engagement through a mutual growth pact.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
